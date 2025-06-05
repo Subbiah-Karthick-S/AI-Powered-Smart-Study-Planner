@@ -1,6 +1,6 @@
-# 📘 AI-Powered Smart Study Planner
+# 📘 AI-Powered Smart Study Planner using Weighted Priority Algorithm
 
-The **AI-Powered Smart Study Planner** is a web-based application designed to help students intelligently manage their study schedules. By integrating artificial intelligence, gamification, and visual analytics, this tool allows students to plan, track, and improve their learning effectively. It dynamically allocates study time based on subject difficulty, user priorities, and deadlines — making study sessions more productive and personalized.
+The **AI-Powered Smart Study Planner using Weighted Priority Algorithm** is a web-based application designed to help students intelligently manage their study schedules. By integrating artificial intelligence, gamification, and visual analytics, this tool allows students to plan, track, and improve their learning effectively. It dynamically allocates study time based on subject difficulty, user priorities, and deadlines — making study sessions more productive and personalized.
 
 ---
 
